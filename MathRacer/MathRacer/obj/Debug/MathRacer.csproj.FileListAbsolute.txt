@@ -1,0 +1,88 @@
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\bin\Debug\MathRacer.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\bin\Debug\MathRacer.pdb
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\ResolveAssemblyReference.cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\MathRacer.aboutus.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\MathRacer.final.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\MathRacer.flasher.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\MathRacer.Game.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\MathRacer.Splash.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\MathRacer.MainForm.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\MathRacer.Properties.Resources.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\MathRacer.csproj.GenerateResource.Cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\MathRacer.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\MathRacer.pdb
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\bin\Debug\Resources\scoretext.txt
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\MathRacer\MathRacer\obj\Debug\MathRacer.scoreboard.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\bin\Debug\blip.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\bin\Debug\bloop_x.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\bin\Debug\boing_spring.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\bin\Debug\chime_down.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\bin\Debug\Fanfare.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\bin\Debug\Floop.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\bin\Debug\Glass.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\bin\Debug\Marimba.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\bin\Debug\scores.txt
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\bin\Debug\MathRacer.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\bin\Debug\MathRacer.pdb
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\ResolveAssemblyReference.cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.aboutus.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.final.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.flasher.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.Game.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.Nat.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.report.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.Splash.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.MainForm.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.Properties.Resources.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.csproj.GenerateResource.Cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_25Jan_Build2\MathRacer\obj\Debug\MathRacer.pdb
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\bin\Debug\blip.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\bin\Debug\bloop_x.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\bin\Debug\boing_spring.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\bin\Debug\chime_down.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\bin\Debug\Fanfare.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\bin\Debug\Floop.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\bin\Debug\Glass.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\bin\Debug\Marimba.wav
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\bin\Debug\scores.txt
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\bin\Debug\MathRacer.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\bin\Debug\MathRacer.pdb
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\ResolveAssemblyReference.cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.aboutus.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.final.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.flasher.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.Game.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.Nat.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.report.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.Splash.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.MainForm.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.Properties.Resources.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.csproj.GenerateResource.Cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRacer\Archive\MathRacer_31Ja\MathRacer_30Jan2010_NonResizable\MathRacer\obj\Debug\MathRacer.pdb
+C:\Quizmine MathRacer\MathRacer\bin\Debug\blip.wav
+C:\Quizmine MathRacer\MathRacer\bin\Debug\bloop_x.wav
+C:\Quizmine MathRacer\MathRacer\bin\Debug\boing_spring.wav
+C:\Quizmine MathRacer\MathRacer\bin\Debug\chime_down.wav
+C:\Quizmine MathRacer\MathRacer\bin\Debug\Fanfare.wav
+C:\Quizmine MathRacer\MathRacer\bin\Debug\Floop.wav
+C:\Quizmine MathRacer\MathRacer\bin\Debug\Glass.wav
+C:\Quizmine MathRacer\MathRacer\bin\Debug\Marimba.wav
+C:\Quizmine MathRacer\MathRacer\bin\Debug\scores.txt
+C:\Quizmine MathRacer\MathRacer\bin\Debug\MathRacer.exe
+C:\Quizmine MathRacer\MathRacer\bin\Debug\MathRacer.pdb
+C:\Quizmine MathRacer\MathRacer\obj\Debug\ResolveAssemblyReference.cache
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.aboutus.resources
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.Allq.resources
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.final.resources
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.flasher.resources
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.Game.resources
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.Nat.resources
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.report.resources
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.Splash.resources
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.MainForm.resources
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.Properties.Resources.resources
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.csproj.GenerateResource.Cache
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.exe
+C:\Quizmine MathRacer\MathRacer\obj\Debug\MathRacer.pdb

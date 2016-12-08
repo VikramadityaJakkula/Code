@@ -1,0 +1,281 @@
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.Form1.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.MainIndex.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.Properties.Resources.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.csproj.GenerateResource.Cache
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\bin\Debug\MathRef.exe
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\bin\Debug\MathRef.pdb
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.exe
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.pdb
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.Splash.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.detailer.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.aboutus.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.conv.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.deriv.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.Geometry.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.grap.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.integ.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.lalg.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.prob.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.series.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\obj\Debug\MathRef.Trig.resources
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\Users\Shyam\Desktop\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.xml
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\MathRef.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\MathRef.pdb
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.dll
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.xml
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\ResolveAssemblyReference.cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.Form1.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.MainIndex.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.Properties.Resources.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.detailer.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.aboutus.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.conv.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.deriv.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.Geometry.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.grap.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.integ.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.lalg.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.prob.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.series.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.Splash.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.Trig.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.csproj.GenerateResource.Cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.pdb
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\MathRef.exe
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\MathRef.pdb
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.Form1.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.MainIndex.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.Properties.Resources.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.detailer.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.aboutus.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.conv.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.deriv.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.Geometry.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.grap.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.integ.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.lalg.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.prob.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.series.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.Splash.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.Trig.resources
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.csproj.GenerateResource.Cache
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.exe
+C:\Users\Shyam\Desktop\MathREF_17Dec09_Final\MathREF_17Dec09\MathREF\MathRef\MathRef\obj\Debug\MathRef.pdb
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\MathRef.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\MathRef.pdb
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.dll
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.xml
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\ResolveAssemblyReference.cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.Form1.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.MainIndex.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.Properties.Resources.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.detailer.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.aboutus.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.conv.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.deriv.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.frac.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.Geometry.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.grap.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.integ.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.lalg.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.numb.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.perc.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.prob.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.round.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.series.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.si.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.Splash.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.subindex.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.Trig.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.csproj.GenerateResource.Cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.pdb
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\algebra.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Conversions.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Derivatives.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Fractions.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Geometry.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\graphs.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Integration.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\linearalgebra.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Numbers.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Percentages.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\probabity.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Rounding.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\series.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\SI.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Trigonometry.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\aboutus.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Slice 1.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\aboutus.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\algebra.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Conversions.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Derivatives.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Fractions.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Geometry.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\graphs.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Integration.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\linearalgebra.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Numbers.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Percentages.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\probabity.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Rounding.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\series.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\SI.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Slice 1.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Trigonometry.png
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\MathRef.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\MathRef.pdb
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.dll
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\bin\Debug\Microsoft.WindowsMobile.xml
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\ResolveAssemblyReference.cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.Form1.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.MainIndex.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.Properties.Resources.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.detailer.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.aboutus.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.conv.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.deriv.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.frac.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.Geometry.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.grap.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.integ.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.lalg.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.numb.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.perc.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.prob.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.round.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.series.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.si.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.Splash.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.subindex.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.Trig.resources
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.csproj.GenerateResource.Cache
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.exe
+C:\My Folder\My WorkSpace\QuizMine\Application Development\MobileApplications\MathRef\New Editions\MathRef 0.3\MathRef 0.3\MathRef_24Dec09_Build3\MathRef_24Dec09\MathRef\obj\Debug\MathRef.pdb
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\aboutus.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\algebra.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Conversions.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Derivatives.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Fractions.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Geometry.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\graphs.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Integration.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\linearalgebra.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Numbers.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Percentages.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\probabity.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Rounding.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\series.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\SI.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Slice 1.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Trigonometry.png
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\MathRef.exe
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\MathRef.pdb
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\ResolveAssemblyReference.cache
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.Form1.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.MainIndex.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.Properties.Resources.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.detailer.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.aboutus.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.conv.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.deriv.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.frac.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.Geometry.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.grap.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.integ.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.lalg.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.numb.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.perc.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.prob.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.round.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.series.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.si.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.Splash.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.subindex.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.Trig.resources
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.csproj.GenerateResource.Cache
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.exe
+C:\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.pdb
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\aboutus.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\algebra.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Conversions.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Derivatives.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Fractions.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Geometry.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\graphs.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Integration.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\linearalgebra.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Numbers.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Percentages.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\probabity.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Rounding.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\series.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\SI.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Slice 1.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Trigonometry.png
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\MathRef.exe
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\MathRef.pdb
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.dll
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.dll
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.Status.xml
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\bin\Debug\Microsoft.WindowsMobile.xml
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.Form1.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.MainIndex.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.Properties.Resources.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.detailer.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.aboutus.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.conv.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.deriv.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.frac.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.Geometry.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.grap.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.integ.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.lalg.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.numb.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.perc.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.prob.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.round.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.series.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.si.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.Splash.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.subindex.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.Trig.resources
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.csproj.GenerateResource.Cache
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.exe
+F:\Personal Projects\Quizmine\code\Quizmine Mathref\MathRef\MathRef\obj\Debug\MathRef.pdb

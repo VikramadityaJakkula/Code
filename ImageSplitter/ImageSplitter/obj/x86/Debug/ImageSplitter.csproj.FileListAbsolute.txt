@@ -1,0 +1,4 @@
+C:\Users\Vikramaditya\Desktop\Quizmine\ImageSplitter\ImageSplitter\ImageSplitter\bin\Debug\ImageSplitter.exe
+C:\Users\Vikramaditya\Desktop\Quizmine\ImageSplitter\ImageSplitter\ImageSplitter\bin\Debug\ImageSplitter.pdb
+C:\Users\Vikramaditya\Desktop\Quizmine\ImageSplitter\ImageSplitter\ImageSplitter\obj\x86\Debug\ImageSplitter.exe
+C:\Users\Vikramaditya\Desktop\Quizmine\ImageSplitter\ImageSplitter\ImageSplitter\obj\x86\Debug\ImageSplitter.pdb
